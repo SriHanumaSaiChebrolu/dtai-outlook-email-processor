@@ -1,0 +1,24 @@
+{
+  "name": "@dtai-outlook-email-processor/mono",
+  "version": "0.0.0",
+  "description": "Read unread outlook emails and upload all attachments to S3 bucket.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaTechAI/dtai-outlook-email-processor.git"
+  },
+  "author": "Sri Hanuma Sai Chebrolu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeltaTechAI/dtai-outlook-email-processor/issues"
+  },
+  "homepage": "https://github.com/DeltaTechAI/dtai-outlook-email-processor#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1657.0",
+    "axios": "^1.7.2",
+    "qs": "^6.12.3"
+  }
+}
