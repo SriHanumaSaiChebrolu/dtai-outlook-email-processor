@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeltaTechAI/dtai-outlook-email-processor.git"
+    "url": "git+https://github.com/SriHanumaSaiChebrolu/dtai-outlook-email-processor.git"
   },
   "author": "Sri Hanuma Sai Chebrolu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DeltaTechAI/dtai-outlook-email-processor/issues"
+    "url": "https://github.com/SriHanumaSaiChebrolu/dtai-outlook-email-processor/issues"
   },
-  "homepage": "https://github.com/DeltaTechAI/dtai-outlook-email-processor#readme",
+  "homepage": "https://github.com/SriHanumaSaiChebrolu/dtai-outlook-email-processor#readme",
   "dependencies": {
     "aws-sdk": "^2.1657.0",
     "axios": "^1.7.2",
