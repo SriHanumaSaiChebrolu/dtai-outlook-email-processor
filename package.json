@@ -1,5 +1,5 @@
 {
-  "name": "@dtai-outlook-email-processor/mono",
+  "name": "dtai-outlook-email-processor",
   "version": "0.0.0",
   "description": "Read unread outlook emails and upload all attachments to S3 bucket.",
   "main": "index.js",
@@ -20,5 +20,9 @@
     "aws-sdk": "^2.1657.0",
     "axios": "^1.7.2",
     "qs": "^6.12.3"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
